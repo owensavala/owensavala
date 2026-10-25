@@ -233,6 +233,28 @@ Sejak masa perkuliahan, saya aktif menggabungkan teori akademis dengan **eksekus
       <p><b>Stack:</b> <code>HTML5</code> <code>Tailwind CSS</code> <code>JavaScript</code> <code>Responsive Mobile UI</code></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧰 Amunisi Teknisi Lapangan</h3>
+      <p align="center">
+        <a href="https://github.com/owensavala/amunisi-teknisi-lapangan">
+          <img src="https://img.shields.io/badge/Open_Source_Toolkit-View_Code-4EAA25?style=flat-square&logo=github" alt="Amunisi Teknisi" />
+        </a>
+      </p>
+      <p>All-in-one IT support & field engineering toolkit. Menu master interaktif untuk diagnostik PC offline, fix sharing printer 0x0000011b, konfigurasi & pemindai IP lab ANBK/CBT, recovery flashdisk malware, screen mirroring HP Android layar pecah, dan penarik crash log Panic Full iPhone.</p>
+      <p><b>Stack:</b> <code>Batch Script</code> <code>PowerShell</code> <code>HTML5 Canvas</code> <code>Field Operations</code> <code>SOP Teknisi</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ MikroMobile Network Suite</h3>
+      <p align="center">
+        <a href="https://wa.me/6285218403629?text=Halo%20Bang%20Owen,%20saya%20tertarik%20demo%20MikroMobile" target="_blank">
+          <img src="https://img.shields.io/badge/Commercial_App-Request_Demo_%26_APK-0284C7?style=flat-square&logo=whatsapp&logoColor=white" alt="MikroMobile" />
+        </a>
+      </p>
+      <p>Aplikasi mobile Android/iOS teknisi jaringan untuk manajemen MikroTik RouterOS di lapangan tanpa membawa laptop. Dilengkapi live traffic monitor, kick user isolir, dan generate voucher kilat.</p>
+      <p><b>Stack:</b> <code>Flutter 3</code> <code>Dart</code> <code>RouterOS API</code> <code>Provider</code> <code>Material 3</code></p>
+    </td>
+  </tr>
 </table>
 
 ---
