@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi+there%2C+I'm+Muh.+Sattar+Barakati+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%9A%80;Laravel+%26+Python+Enthusiast+%F0%9F%92%BB;Crafting+Modern+%26+Scalable+Solutions+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Hi+there%2C+I'm+Muh.+Sattar+Barakati+%F0%9F%91%8B;Full-Stack+Developer+%26+IT+Solutions+Specialist+%F0%9F%9A%80;Bridging+Hardware%2C+Networks+%26+Modern+Web+Apps+%F0%9F%8C%90;Serving+Islands+across+North+Maluku+%E2%9B%B5" alt="Typing SVG" />
 
   <p align="center">
-    <strong>Crafting impactful web applications, robust backends, and intelligent automation systems.</strong>
+    <strong>Informatics Engineer | Full-Stack Web Developer | Network & Field IT Infrastructure Specialist</strong><br />
+    <em>Bacan &bull; Ternate &bull; Kayoa &bull; Subaim &bull; North Maluku, Indonesia</em>
   </p>
 
   <p align="center">
@@ -10,61 +11,92 @@
       <img src="https://img.shields.io/badge/Email-sattarbarakati%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://github.com/owensavala?tab=repositories">
-      <img src="https://img.shields.io/badge/Projects-Explore_Work-0284C7?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
+      <img src="https://img.shields.io/badge/GitHub-Explore_Projects-0284C7?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
     </a>
   </p>
 </div>
 
 <hr />
 
-### 👨‍💻 About Me
+### 📖 My Story & Journey
 
 ```yaml
 name: Muh. Sattar Barakati
-handle: owensavala
-role: Full-Stack Web Developer & Automation Enthusiast
-primary_stack: [PHP, Laravel, Python, JavaScript, MySQL]
-focus: Building high-performance web applications & automated systems
-interests: [Cloud Architecture, Clean Architecture, Developer Experience, Open Source]
-status: Open for impactful opportunities & collaborations 🚀
+origin: Amasing Bukit Sere, Bacan (South Halmahera)
+education: S1 Teknik Informatika (Final Semester / Thesis Phase) & Vocational High School (TKJ)
+specialty: Full-Stack Web Dev &bull; Network & Hardware Infrastructure &bull; AI Automation
+service_area: Ternate, Bacan, Kayoa, Subaim & Remote Archipelago Regions
+philosophy: "Solving real-world problems from physical network cables to scalable cloud code."
 ```
 
-* 🔭 **Currently Building:** Enterprise-grade Web Applications & Automation Tooling
-* 💡 **Strengths:** End-to-end web system architecture, database optimization, secure RESTful APIs, and process automation.
-* 🎯 **Goals:** Contributing to meaningful open-source software and scaling high-traffic products.
-* 📬 **Get in Touch:** Reach me directly via [sattarbarakati@gmail.com](mailto:sattarbarakati@gmail.com).
+Perjalanan teknologi saya berawal dari bangku **SMK jurusan Teknik Komputer dan Jaringan (TKJ)**—terbiasa merakit CPU, instalasi sistem operasi, dan mengonfigurasi jaringan LAN fisik. Lulus pada tahun 2020, saya melanjutkan studi di **Teknik Informatika**, memperluas pondasi rekayasa perangkat lunak dari C++ hingga arsitektur web modern.
+
+Sejak masa perkuliahan, saya aktif menggabungkan teori dengan **lapangan kerja nyata**:
+* 🏛️ **Government Web Engineering:** Di semester 7, dipercaya membangun sistem aplikasi web dinas pemerintahan (nilai proyek Rp 25 juta) secara manual selama 5 bulan sebelum era generator AI populer.
+* 🛰️ **Island Network & Starlink Deployment:** Memasang dan mengonfigurasi internet satelit Starlink di sekolah-sekolah pelosok, merancang sistem voucher WiFi, mengimplementasikan **Load Balancing** untuk kestabilan ujian 50+ laptop secara simultan, serta memelihara lab komputer sekolah untuk ujian nasional (ANBK).
+* 🛠️ **Cross-Island Field IT Specialist:** Menjalankan jasa servis panggilan laptop, PC, printer, dan jaringan menyeberangi lautan antar-pulau dari Ternate menuju Bacan, Kayoa, hingga Subaim.
+* 🤖 **AI & Autonomous Agents:** Mengembangkan otomasi pintar berbasis Google Gemini AI dan GitHub Actions untuk ekstraksi data publik dan pengiriman notifikasi instan.
 
 ---
 
-### 🛠️ Tech Stack & Toolbox
+### 💼 Core Competencies & Experience Spectrum
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4 align="center">🌐 Software & Web</h4>
+      <ul>
+        <li><b>Frameworks:</b> Laravel 11/12, Blade, Node.js</li>
+        <li><b>Languages:</b> PHP, Python, JavaScript, C++</li>
+        <li><b>Databases:</b> MySQL, SQLite, PostgreSQL</li>
+        <li><b>Frontend:</b> Tailwind CSS, Bootstrap, Chart.js</li>
+        <li><b>Products:</b> Web Dinas, Web Desa (SID), Web Kampus, Undangan Digital</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">📡 Network & Satcom</h4>
+      <ul>
+        <li><b>Satcom:</b> Starlink Satellite Installation</li>
+        <li><b>Routing:</b> MikroTik Load Balancing & Failover</li>
+        <li><b>LAN & Hotspot:</b> WiFi Voucher, Bandwidth Management</li>
+        <li><b>Exam Labs:</b> Lab ANBK maintenance (50+ clients)</li>
+        <li><b>Peripherals:</b> Network Printer Sharing & Topology</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">🔧 Hardware & Field Ops</h4>
+      <ul>
+        <li><b>Hardware Repairs:</b> LCD, Keyboard, Battery, Hinges</li>
+        <li><b>Upgrades:</b> RAM & NVMe/SATA SSD Optimization</li>
+        <li><b>Desktop Ops:</b> Custom PC Assembly & Benchmarking</li>
+        <li><b>Troubleshooting:</b> OS Deployment & Driver Tuning</li>
+        <li><b>Field Work:</b> Extreme cross-island logistics</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-#### Backend & APIs
+#### Programming & Frameworks
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-0284C7?style=for-the-badge&logo=fastapi&logoColor=white)
-
-#### Frontend & UI
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-#### Database & Storage
+#### Network, Cloud & AI
+![Google Gemini](https://img.shields.io/badge/Google_Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-Network-000000?style=for-the-badge)
+![Starlink](https://img.shields.io/badge/Starlink-Satellite_Deployment-1E293B?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-#### DevOps, Tools & Environment
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -75,46 +107,46 @@ status: Open for impactful opportunities & collaborations 🚀
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🏛️ Web Desa Laravel</h3>
+      <h3 align="center">🏛️ Web Desa Kupal (Laravel 11)</h3>
       <p align="center">
         <a href="https://github.com/owensavala/web-desa-laravel">
-          <img src="https://img.shields.io/badge/Repository-View_Code-FF2D20?style=flat-square&logo=github" alt="Web Desa" />
+          <img src="https://img.shields.io/badge/Repository-View_Project-FF2D20?style=flat-square&logo=github" alt="Web Desa" />
         </a>
       </p>
-      <p>Sistem Informasi dan Manajemen Layanan Publik Pemerintahan Desa berbasis Laravel. Mempermudah administrasi kependudukan, transparansi anggaran, serta pelayanan surat warga secara digital.</p>
-      <p><b>Tech:</b> <code>Laravel</code> <code>PHP</code> <code>Blade</code> <code>MySQL</code> <code>Bootstrap</code></p>
+      <p>Sistem Informasi Desa & Pelayanan Publik mandiri. Dilengkapi visualisasi transparansi APBDes, grafik demografi penduduk interaktif dengan Chart.js, layanan unduh berkas kependudukan, dan panel admin berbasis session security.</p>
+      <p><b>Stack:</b> <code>Laravel 11</code> <code>Tailwind CSS</code> <code>Chart.js</code> <code>MySQL</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 Radar Loker Bot</h3>
+      <h3 align="center">🤖 Radar Loker Bot (Gemini AI)</h3>
       <p align="center">
         <a href="https://github.com/owensavala/radar-loker-bot">
-          <img src="https://img.shields.io/badge/Repository-View_Code-3776AB?style=flat-square&logo=github" alt="Radar Loker" />
+          <img src="https://img.shields.io/badge/Repository-View_Project-3776AB?style=flat-square&logo=github" alt="Radar Loker" />
         </a>
       </p>
-      <p>Bot otomasi cerdas berbasis Python yang memindai, menyaring, dan mendistribusikan informasi lowongan kerja terbaru secara real-time ke saluran notifikasi secara berkala.</p>
-      <p><b>Tech:</b> <code>Python</code> <code>Web Scraping</code> <code>Automation</code> <code>REST API</code></p>
+      <p>Agen otomasi pencari lowongan kerja cerdas. Memindai feed Instagram di Kota Ternate secara otomatis via Apify, menyaring pamflet kedaluwarsa dengan Google Gemini AI, dan mengirimkan notifikasi ke Telegram setiap pagi secara serverless via GitHub Actions.</p>
+      <p><b>Stack:</b> <code>Python</code> <code>Google Gemini</code> <code>Apify</code> <code>Telegram API</code> <code>GitHub Actions</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">💼 Interactive Portfolio</h3>
+      <h3 align="center">💼 Personal Interactive Portfolio</h3>
       <p align="center">
         <a href="https://github.com/owensavala/muhsattarbarakati-portfolio">
-          <img src="https://img.shields.io/badge/Repository-View_Code-0284C7?style=flat-square&logo=github" alt="Portfolio" />
+          <img src="https://img.shields.io/badge/Repository-View_Project-0284C7?style=flat-square&logo=github" alt="Portfolio" />
         </a>
       </p>
-      <p>Platform portofolio web responsif yang menampilkan karya, keahlian teknis, dan riwayat rekayasa perangkat lunak secara interaktif dan elegan.</p>
-      <p><b>Tech:</b> <code>JavaScript</code> <code>HTML5</code> <code>CSS3</code> <code>Responsive UI</code></p>
+      <p>Web portofolio personal responsif yang menampilkan profil teknis, rekam jejak proyek rekayasa perangkat lunak, serta portofolio layanan IT profesional.</p>
+      <p><b>Stack:</b> <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>Responsive Design</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">💌 Digital Wedding Invitation</h3>
+      <h3 align="center">💌 Digital Wedding Platform</h3>
       <p align="center">
         <a href="https://github.com/owensavala/Undangan-nikah">
-          <img src="https://img.shields.io/badge/Repository-View_Code-10B981?style=flat-square&logo=github" alt="Undangan Digital" />
+          <img src="https://img.shields.io/badge/Repository-View_Project-10B981?style=flat-square&logo=github" alt="Undangan Digital" />
         </a>
       </p>
-      <p>Aplikasi undangan pernikahan digital dengan fitur interaktif, pemutar musik latar, RSVP konfirmasi kehadiran, dan integrasi maps lokasi.</p>
-      <p><b>Tech:</b> <code>JavaScript</code> <code>CSS3</code> <code>Audio API</code> <code>Interactive Design</code></p>
+      <p>Aplikasi undangan pernikahan online interaktif lengkap dengan pemutar musik latar, form reservasi konfirmasi kehadiran (RSVP), amplop digital, dan petunjuk peta navigasi.</p>
+      <p><b>Stack:</b> <code>JavaScript</code> <code>CSS Animations</code> <code>Audio API</code> <code>Mobile-first</code></p>
     </td>
   </tr>
 </table>
@@ -134,7 +166,7 @@ status: Open for impactful opportunities & collaborations 🚀
 
 ---
 
-### 🐍 Contribution Activity
+### 🐍 Real-Time Contribution Grid
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/owensavala/owensavala/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
@@ -143,5 +175,5 @@ status: Open for impactful opportunities & collaborations 🚀
 ---
 
 <div align="center">
-  <sub>⭐️ Profile crafted with passion & clean code by <a href="https://github.com/owensavala"><b>Muh. Sattar Barakati</b></a>.</sub>
+  <sub>🛠️ Built with dedication & real-world resilience by <a href="https://github.com/owensavala"><b>Muh. Sattar Barakati</b></a>.</sub>
 </div>
