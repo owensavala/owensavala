@@ -94,14 +94,15 @@ Sejak masa perkuliahan, saya aktif menggabungkan teori akademis dengan **eksekus
 <div align="center">
 
 #### Programming & Frameworks
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyQt5](https://img.shields.io/badge/PyQt5-GUI-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 #### Network, Satcom & AI
@@ -187,6 +188,16 @@ Sejak masa perkuliahan, saya aktif menggabungkan teori akademis dengan **eksekus
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">🏢 Smart Boarding House SaaS</h3>
+      <p align="center">
+        <a href="https://github.com/owensavala/smart-boarding-house">
+          <img src="https://img.shields.io/badge/Repository-View_Project-000000?style=flat-square&logo=next.js" alt="Smart Boarding House" />
+        </a>
+      </p>
+      <p>Platform SaaS manajemen kos-kosan & asrama modern. Dilengkapi dashboard analitik okupansi pemilik, penagihan berkala otomatis & denda via cron, portal mandiri penyewa, upload bukti bayar, dan tiket keluhan fasilitas.</p>
+      <p><b>Stack:</b> <code>Next.js 14</code> <code>TypeScript</code> <code>Prisma ORM</code> <code>Tailwind CSS</code> <code>WhatsApp Gateway</code></p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">🤖 Radar Loker Bot (Gemini AI)</h3>
       <p align="center">
         <a href="https://github.com/owensavala/radar-loker-bot">
@@ -196,6 +207,8 @@ Sejak masa perkuliahan, saya aktif menggabungkan teori akademis dengan **eksekus
       <p>Agen otomasi pencari lowongan kerja cerdas. Memindai feed Instagram di Kota Ternate via Apify, menyaring pamflet kedaluwarsa dengan Google Gemini AI, dan mengirimkan notifikasi ke Telegram setiap pagi secara serverless via GitHub Actions.</p>
       <p><b>Stack:</b> <code>Python</code> <code>Google Gemini</code> <code>Apify</code> <code>Telegram API</code> <code>GitHub Actions</code></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">💌 Digital Wedding Platform</h3>
       <p align="center">
@@ -206,9 +219,7 @@ Sejak masa perkuliahan, saya aktif menggabungkan teori akademis dengan **eksekus
       <p>Aplikasi undangan pernikahan online interaktif lengkap dengan pemutar musik latar, form reservasi konfirmasi kehadiran (RSVP), amplop digital, dan petunjuk peta navigasi.</p>
       <p><b>Stack:</b> <code>React 18</code> <code>Vite 6</code> <code>Tailwind CSS</code> <code>Framer Motion</code></p>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">💼 Personal Interactive Portfolio</h3>
       <p align="center">
         <a href="https://muhsattarbarakati.my.id" target="_blank">
@@ -218,8 +229,8 @@ Sejak masa perkuliahan, saya aktif menggabungkan teori akademis dengan **eksekus
           <img src="https://img.shields.io/badge/Repository-View_Code-gray?style=flat-square&logo=github" alt="Portfolio" />
         </a>
       </p>
-      <p align="center">Platform portofolio resmi dan rekam jejak lapangan MSB Computer & Network Solutions. Mengintegrasikan profil teknisi servis, instalasi Starlink, Lab ANBK, dan modern web engineering.</p>
-      <p align="center"><b>Stack:</b> <code>HTML5</code> <code>Tailwind CSS</code> <code>JavaScript</code> <code>Responsive Mobile UI</code></p>
+      <p>Platform portofolio resmi dan rekam jejak lapangan MSB Computer & Network Solutions. Mengintegrasikan profil teknisi servis, instalasi Starlink, Lab ANBK, dan modern web engineering.</p>
+      <p><b>Stack:</b> <code>HTML5</code> <code>Tailwind CSS</code> <code>JavaScript</code> <code>Responsive Mobile UI</code></p>
     </td>
   </tr>
 </table>
