@@ -57,11 +57,11 @@ Sejak masa perkuliahan, saya aktif menggabungkan teori akademis dengan **eksekus
     <td width="33%" valign="top">
       <h4 align="center">🌐 Software & Web</h4>
       <ul>
-        <li><b>Frameworks:</b> Laravel 12/11, Blade, Node.js, React</li>
-        <li><b>Languages:</b> PHP, Python, JavaScript, C++</li>
+        <li><b>Frameworks:</b> Laravel 12/11, Flutter, Node.js, React</li>
+        <li><b>Languages:</b> PHP, Dart, Python, JavaScript, C++</li>
         <li><b>Databases:</b> MySQL, SQLite, PostgreSQL</li>
-        <li><b>Frontend:</b> Tailwind CSS, Bootstrap, Chart.js</li>
-        <li><b>Live Systems:</b> StarTik Hotspot, Web Desa, Web Dinas, Undangan Digital</li>
+        <li><b>Frontend:</b> Tailwind CSS, Material 3, Bootstrap, Chart.js</li>
+        <li><b>Live Systems:</b> StarTik Hotspot, MikroMobile, Web Desa, Web Dinas, Undangan Digital</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -96,6 +96,8 @@ Sejak masa perkuliahan, saya aktif menggabungkan teori akademis dengan **eksekus
 #### Programming & Frameworks
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyQt5](https://img.shields.io/badge/PyQt5-GUI-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -129,6 +131,18 @@ Sejak masa perkuliahan, saya aktif menggabungkan teori akademis dengan **eksekus
       <p><b>Stack:</b> <code>Laravel 12</code> <code>MikroTik RouterOS API</code> <code>Tailwind CSS</code> <code>Starlink Satcom</code></p>
     </td>
     <td width="50%" valign="top">
+      <h3 align="center">📱 MikroMobile: Pocket RouterOS</h3>
+      <p align="center">
+        <a href="https://github.com/owensavala/mikromobile">
+          <img src="https://img.shields.io/badge/Repository-View_Project-02569B?style=flat-square&logo=github" alt="MikroMobile" />
+        </a>
+      </p>
+      <p>Aplikasi mobile Android/iOS modern untuk manajemen MikroTik RouterOS di genggaman. Dilengkapi dashboard live traffic, generator voucher hotspot batch, cetak instan ke printer thermal Bluetooth (ESC/POS 58mm/80mm), dan enkripsi AES-256 kredensial.</p>
+      <p><b>Stack:</b> <code>Flutter 3</code> <code>Dart</code> <code>RouterOS API</code> <code>Bluetooth ESC/POS</code> <code>AES-256</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">🖥️ LabMaster: PC Lab Controller</h3>
       <p align="center">
         <a href="https://github.com/owensavala/labmaster">
@@ -137,40 +151,6 @@ Sejak masa perkuliahan, saya aktif menggabungkan teori akademis dengan **eksekus
       </p>
       <p>Aplikasi Desktop PyQt5 untuk kontrol lab komputer sekolah & ujian ANBK. Menyalakan puluhan PC massal via Wake-on-LAN (UDP 9), remote socket shutdown serentak, dan isolasi internet publik via MikroTik Exam Guard.</p>
       <p><b>Stack:</b> <code>Python 3</code> <code>PyQt5</code> <code>Wake-on-LAN</code> <code>MikroTik API</code> <code>AES-256</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🏛️ Web Desa Kupal (Laravel 11)</h3>
-      <p align="center">
-        <a href="https://github.com/owensavala/web-desa-laravel">
-          <img src="https://img.shields.io/badge/Repository-View_Project-FF2D20?style=flat-square&logo=github" alt="Web Desa" />
-        </a>
-      </p>
-      <p>Sistem Informasi Desa & Pelayanan Publik mandiri. Dilengkapi visualisasi transparansi APBDes, grafik demografi penduduk interaktif dengan Chart.js, layanan unduh berkas kependudukan, dan panel admin berbasis session security.</p>
-      <p><b>Stack:</b> <code>Laravel 11</code> <code>Tailwind CSS</code> <code>Chart.js</code> <code>MySQL</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 Radar Loker Bot (Gemini AI)</h3>
-      <p align="center">
-        <a href="https://github.com/owensavala/radar-loker-bot">
-          <img src="https://img.shields.io/badge/Repository-View_Project-3776AB?style=flat-square&logo=github" alt="Radar Loker" />
-        </a>
-      </p>
-      <p>Agen otomasi pencari lowongan kerja cerdas. Memindai feed Instagram di Kota Ternate via Apify, menyaring pamflet kedaluwarsa dengan Google Gemini AI, dan mengirimkan notifikasi ke Telegram setiap pagi secara serverless via GitHub Actions.</p>
-      <p><b>Stack:</b> <code>Python</code> <code>Google Gemini</code> <code>Apify</code> <code>Telegram API</code> <code>GitHub Actions</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🏫 CBT & E-Raport Engine Pro</h3>
-      <p align="center">
-        <a href="https://github.com/owensavala/cbt-eraport-engine">
-          <img src="https://img.shields.io/badge/Repository-View_Project-10B981?style=flat-square&logo=github" alt="CBT Engine" />
-        </a>
-      </p>
-      <p>Sistem ujian terpusat berkonkurensi tinggi berbasis SQLite WAL mode. Dilengkapi otoritas waktu server mutlak (anti-manipulasi jam), token dinamis 15 menit, atomic upsert jawaban, ruang kendali pengawas (proctor), dan ekspor otomatis rapor Excel (.xlsx).</p>
-      <p><b>Stack:</b> <code>Node.js 22</code> <code>Express</code> <code>SQLite WAL</code> <code>ExcelJS</code> <code>Anti-Cheat</code></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🛠️ MSB Hardware Diagnostic Tool</h3>
@@ -185,6 +165,38 @@ Sejak masa perkuliahan, saya aktif menggabungkan teori akademis dengan **eksekus
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">🏛️ Web Desa Kupal (Laravel 11)</h3>
+      <p align="center">
+        <a href="https://github.com/owensavala/web-desa-laravel">
+          <img src="https://img.shields.io/badge/Repository-View_Project-FF2D20?style=flat-square&logo=github" alt="Web Desa" />
+        </a>
+      </p>
+      <p>Sistem Informasi Desa & Pelayanan Publik mandiri. Dilengkapi visualisasi transparansi APBDes, grafik demografi penduduk interaktif dengan Chart.js, layanan unduh berkas kependudukan, dan panel admin berbasis session security.</p>
+      <p><b>Stack:</b> <code>Laravel 11</code> <code>Tailwind CSS</code> <code>Chart.js</code> <code>MySQL</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏫 CBT & E-Raport Engine Pro</h3>
+      <p align="center">
+        <a href="https://github.com/owensavala/cbt-eraport-engine">
+          <img src="https://img.shields.io/badge/Repository-View_Project-10B981?style=flat-square&logo=github" alt="CBT Engine" />
+        </a>
+      </p>
+      <p>Sistem ujian terpusat berkonkurensi tinggi berbasis SQLite WAL mode. Dilengkapi otoritas waktu server mutlak (anti-manipulasi jam), token dinamis 15 menit, atomic upsert jawaban, ruang kendali pengawas (proctor), dan ekspor otomatis rapor Excel (.xlsx).</p>
+      <p><b>Stack:</b> <code>Node.js 22</code> <code>Express</code> <code>SQLite WAL</code> <code>ExcelJS</code> <code>Anti-Cheat</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 Radar Loker Bot (Gemini AI)</h3>
+      <p align="center">
+        <a href="https://github.com/owensavala/radar-loker-bot">
+          <img src="https://img.shields.io/badge/Repository-View_Project-3776AB?style=flat-square&logo=github" alt="Radar Loker" />
+        </a>
+      </p>
+      <p>Agen otomasi pencari lowongan kerja cerdas. Memindai feed Instagram di Kota Ternate via Apify, menyaring pamflet kedaluwarsa dengan Google Gemini AI, dan mengirimkan notifikasi ke Telegram setiap pagi secara serverless via GitHub Actions.</p>
+      <p><b>Stack:</b> <code>Python</code> <code>Google Gemini</code> <code>Apify</code> <code>Telegram API</code> <code>GitHub Actions</code></p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">💌 Digital Wedding Platform</h3>
       <p align="center">
         <a href="https://github.com/owensavala/Undangan-nikah">
@@ -194,7 +206,9 @@ Sejak masa perkuliahan, saya aktif menggabungkan teori akademis dengan **eksekus
       <p>Aplikasi undangan pernikahan online interaktif lengkap dengan pemutar musik latar, form reservasi konfirmasi kehadiran (RSVP), amplop digital, dan petunjuk peta navigasi.</p>
       <p><b>Stack:</b> <code>React 18</code> <code>Vite 6</code> <code>Tailwind CSS</code> <code>Framer Motion</code></p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h3 align="center">💼 Personal Interactive Portfolio</h3>
       <p align="center">
         <a href="https://muhsattarbarakati.my.id" target="_blank">
@@ -204,8 +218,8 @@ Sejak masa perkuliahan, saya aktif menggabungkan teori akademis dengan **eksekus
           <img src="https://img.shields.io/badge/Repository-View_Code-gray?style=flat-square&logo=github" alt="Portfolio" />
         </a>
       </p>
-      <p>Platform portofolio resmi dan rekam jejak lapangan MSB Computer & Network Solutions. Mengintegrasikan profil teknisi servis, instalasi Starlink, Lab ANBK, dan modern web engineering.</p>
-      <p><b>Stack:</b> <code>HTML5</code> <code>Tailwind CSS</code> <code>JavaScript</code> <code>Responsive Mobile UI</code></p>
+      <p align="center">Platform portofolio resmi dan rekam jejak lapangan MSB Computer & Network Solutions. Mengintegrasikan profil teknisi servis, instalasi Starlink, Lab ANBK, dan modern web engineering.</p>
+      <p align="center"><b>Stack:</b> <code>HTML5</code> <code>Tailwind CSS</code> <code>JavaScript</code> <code>Responsive Mobile UI</code></p>
     </td>
   </tr>
 </table>
