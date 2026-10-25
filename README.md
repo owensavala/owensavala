@@ -117,15 +117,15 @@ Sejak masa perkuliahan, saya aktif menggabungkan teori akademis dengan **eksekus
 
 ---
 
-### 🚀 Highlighted Projects
+### 🚀 Featured Systems & Commercial Solutions
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🛰️ StarTik Hotspot Manager</h3>
       <p align="center">
-        <a href="https://github.com/owensavala/startik-hotspot">
-          <img src="https://img.shields.io/badge/Repository-View_Project-0284C7?style=flat-square&logo=github" alt="StarTik Hotspot" />
+        <a href="https://wa.me/6285218403629?text=Halo%20Bang%20Owen,%20saya%20tertarik%20demo/lisensi%20StarTik%20Hotspot%20Starlink" target="_blank">
+          <img src="https://img.shields.io/badge/Commercial_Solution-Request_Demo_%26_Inquiry-0284C7?style=flat-square&logo=whatsapp&logoColor=white" alt="StarTik Hotspot" />
         </a>
       </p>
       <p>Sistem manajemen voucher hotspot satelit Starlink & MikroTik RouterOS API real-time. Dilengkapi batch generator voucher, tata letak cetak siap potong + QR Code login instan, pemantau latensi Starlink, dan kelola paket tarif dinamis.</p>
@@ -134,8 +134,8 @@ Sejak masa perkuliahan, saya aktif menggabungkan teori akademis dengan **eksekus
     <td width="50%" valign="top">
       <h3 align="center">📱 MikroMobile: Pocket RouterOS</h3>
       <p align="center">
-        <a href="https://github.com/owensavala/mikromobile">
-          <img src="https://img.shields.io/badge/Repository-View_Project-02569B?style=flat-square&logo=github" alt="MikroMobile" />
+        <a href="https://wa.me/6285218403629?text=Halo%20Bang%20Owen,%20saya%20tertarik%20demo/lisensi%20aplikasi%20MikroMobile" target="_blank">
+          <img src="https://img.shields.io/badge/Commercial_App-Request_Demo_%26_Inquiry-02569B?style=flat-square&logo=whatsapp&logoColor=white" alt="MikroMobile" />
         </a>
       </p>
       <p>Aplikasi mobile Android/iOS modern untuk manajemen MikroTik RouterOS di genggaman. Dilengkapi dashboard live traffic, generator voucher hotspot batch, cetak instan ke printer thermal Bluetooth (ESC/POS 58mm/80mm), dan enkripsi AES-256 kredensial.</p>
@@ -146,8 +146,8 @@ Sejak masa perkuliahan, saya aktif menggabungkan teori akademis dengan **eksekus
     <td width="50%" valign="top">
       <h3 align="center">🖥️ LabMaster: PC Lab Controller</h3>
       <p align="center">
-        <a href="https://github.com/owensavala/labmaster">
-          <img src="https://img.shields.io/badge/Repository-View_Project-10B981?style=flat-square&logo=github" alt="LabMaster" />
+        <a href="https://wa.me/6285218403629?text=Halo%20Bang%20Owen,%20saya%20tertarik%20pengadaan/demo%20LabMaster%20ANBK" target="_blank">
+          <img src="https://img.shields.io/badge/Commercial_Software-Request_Demo_%26_Inquiry-10B981?style=flat-square&logo=whatsapp&logoColor=white" alt="LabMaster" />
         </a>
       </p>
       <p>Aplikasi Desktop PyQt5 untuk kontrol lab komputer sekolah & ujian ANBK. Menyalakan puluhan PC massal via Wake-on-LAN (UDP 9), remote socket shutdown serentak, dan isolasi internet publik via MikroTik Exam Guard.</p>
@@ -157,7 +157,7 @@ Sejak masa perkuliahan, saya aktif menggabungkan teori akademis dengan **eksekus
       <h3 align="center">🛠️ MSB Hardware Diagnostic Tool</h3>
       <p align="center">
         <a href="https://github.com/owensavala/hardware-diagnostic-tool">
-          <img src="https://img.shields.io/badge/Repository-View_Project-38BDF8?style=flat-square&logo=github" alt="Hardware Diagnostic" />
+          <img src="https://img.shields.io/badge/Open_Source_Tool-View_Code-38BDF8?style=flat-square&logo=github" alt="Hardware Diagnostic" />
         </a>
       </p>
       <p>Utilitas diagnostik hardware teknisi laptop/PC level kernel WMI & ACPI. Dilengkapi deteksi sel baterai mati (Dead Cell & Ghost Capacity), sensor arus charging nyata (mW), benchmark sequential NVMe, dan ekspor laporan servis resmi ke format HTML.</p>
@@ -169,7 +169,7 @@ Sejak masa perkuliahan, saya aktif menggabungkan teori akademis dengan **eksekus
       <h3 align="center">🏛️ Web Desa Kupal (Laravel 11)</h3>
       <p align="center">
         <a href="https://github.com/owensavala/web-desa-laravel">
-          <img src="https://img.shields.io/badge/Repository-View_Project-FF2D20?style=flat-square&logo=github" alt="Web Desa" />
+          <img src="https://img.shields.io/badge/Case_Study-View_Code-FF2D20?style=flat-square&logo=github" alt="Web Desa" />
         </a>
       </p>
       <p>Sistem Informasi Desa & Pelayanan Publik mandiri. Dilengkapi visualisasi transparansi APBDes, grafik demografi penduduk interaktif dengan Chart.js, layanan unduh berkas kependudukan, dan panel admin berbasis session security.</p>
@@ -178,8 +178,8 @@ Sejak masa perkuliahan, saya aktif menggabungkan teori akademis dengan **eksekus
     <td width="50%" valign="top">
       <h3 align="center">🏫 CBT & E-Raport Engine Pro</h3>
       <p align="center">
-        <a href="https://github.com/owensavala/cbt-eraport-engine">
-          <img src="https://img.shields.io/badge/Repository-View_Project-10B981?style=flat-square&logo=github" alt="CBT Engine" />
+        <a href="https://wa.me/6285218403629?text=Halo%20Bang%20Owen,%20saya%20tertarik%20pengadaan/demo%20CBT%20dan%20E-Raport%20Engine" target="_blank">
+          <img src="https://img.shields.io/badge/Commercial_License-School_Procurement_%26_Demo-10B981?style=flat-square&logo=whatsapp&logoColor=white" alt="CBT Engine" />
         </a>
       </p>
       <p>Sistem ujian terpusat berkonkurensi tinggi berbasis SQLite WAL mode. Dilengkapi otoritas waktu server mutlak (anti-manipulasi jam), token dinamis 15 menit, atomic upsert jawaban, ruang kendali pengawas (proctor), dan ekspor otomatis rapor Excel (.xlsx).</p>
@@ -190,8 +190,8 @@ Sejak masa perkuliahan, saya aktif menggabungkan teori akademis dengan **eksekus
     <td width="50%" valign="top">
       <h3 align="center">🏢 Smart Boarding House SaaS</h3>
       <p align="center">
-        <a href="https://github.com/owensavala/smart-boarding-house">
-          <img src="https://img.shields.io/badge/Repository-View_Project-000000?style=flat-square&logo=next.js" alt="Smart Boarding House" />
+        <a href="https://wa.me/6285218403629?text=Halo%20Bang%20Owen,%20saya%20tertarik%20demo/sewa%20Smart%20Boarding%20House%20SaaS" target="_blank">
+          <img src="https://img.shields.io/badge/Commercial_SaaS-Request_Demo_%26_Pricing-000000?style=flat-square&logo=whatsapp&logoColor=white" alt="Smart Boarding House" />
         </a>
       </p>
       <p>Platform SaaS manajemen kos-kosan & asrama modern. Dilengkapi dashboard analitik okupansi pemilik, penagihan berkala otomatis & denda via cron, portal mandiri penyewa, upload bukti bayar, dan tiket keluhan fasilitas.</p>
@@ -201,7 +201,7 @@ Sejak masa perkuliahan, saya aktif menggabungkan teori akademis dengan **eksekus
       <h3 align="center">🤖 Radar Loker Bot (Gemini AI)</h3>
       <p align="center">
         <a href="https://github.com/owensavala/radar-loker-bot">
-          <img src="https://img.shields.io/badge/Repository-View_Project-3776AB?style=flat-square&logo=github" alt="Radar Loker" />
+          <img src="https://img.shields.io/badge/Open_Source_Bot-View_Code-3776AB?style=flat-square&logo=github" alt="Radar Loker" />
         </a>
       </p>
       <p>Agen otomasi pencari lowongan kerja cerdas. Memindai feed Instagram di Kota Ternate via Apify, menyaring pamflet kedaluwarsa dengan Google Gemini AI, dan mengirimkan notifikasi ke Telegram setiap pagi secara serverless via GitHub Actions.</p>
@@ -213,7 +213,7 @@ Sejak masa perkuliahan, saya aktif menggabungkan teori akademis dengan **eksekus
       <h3 align="center">💌 Digital Wedding Platform</h3>
       <p align="center">
         <a href="https://github.com/owensavala/Undangan-nikah">
-          <img src="https://img.shields.io/badge/Repository-View_Project-EC4899?style=flat-square&logo=github" alt="Undangan Digital" />
+          <img src="https://img.shields.io/badge/Client_Project-View_Code-EC4899?style=flat-square&logo=github" alt="Undangan Digital" />
         </a>
       </p>
       <p>Aplikasi undangan pernikahan online interaktif lengkap dengan pemutar musik latar, form reservasi konfirmasi kehadiran (RSVP), amplop digital, dan petunjuk peta navigasi.</p>
