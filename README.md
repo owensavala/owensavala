@@ -163,17 +163,14 @@ Sejak masa perkuliahan, saya aktif menggabungkan teori akademis dengan **eksekus
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">💼 Personal Interactive Portfolio</h3>
+      <h3 align="center">🏫 CBT & E-Raport Engine Pro</h3>
       <p align="center">
-        <a href="https://muhsattarbarakati.my.id" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Site-muhsattarbarakati.my.id-0284C7?style=flat-square&logo=google-chrome&logoColor=white" alt="Live Site" />
-        </a>
-        <a href="https://github.com/owensavala/muhsattarbarakati-portfolio">
-          <img src="https://img.shields.io/badge/Repository-View_Code-gray?style=flat-square&logo=github" alt="Portfolio" />
+        <a href="https://github.com/owensavala/cbt-eraport-engine">
+          <img src="https://img.shields.io/badge/Repository-View_Project-10B981?style=flat-square&logo=github" alt="CBT Engine" />
         </a>
       </p>
-      <p>Platform portofolio resmi dan rekam jejak lapangan MSB Computer & Network Solutions. Mengintegrasikan profil teknisi servis, instalasi Starlink, dan web engineering.</p>
-      <p><b>Stack:</b> <code>HTML5</code> <code>Tailwind CSS</code> <code>JavaScript</code> <code>Responsive UI</code></p>
+      <p>Sistem ujian terpusat berkonkurensi tinggi berbasis SQLite WAL mode. Dilengkapi otoritas waktu server mutlak (anti-manipulasi jam), token dinamis 15 menit, atomic upsert jawaban, ruang kendali pengawas (proctor), dan ekspor otomatis rapor Excel (.xlsx).</p>
+      <p><b>Stack:</b> <code>Node.js 22</code> <code>Express</code> <code>SQLite WAL</code> <code>ExcelJS</code> <code>Anti-Cheat</code></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">💌 Digital Wedding Platform</h3>
@@ -184,6 +181,21 @@ Sejak masa perkuliahan, saya aktif menggabungkan teori akademis dengan **eksekus
       </p>
       <p>Aplikasi undangan pernikahan online interaktif lengkap dengan pemutar musik latar, form reservasi konfirmasi kehadiran (RSVP), amplop digital, dan petunjuk peta navigasi.</p>
       <p><b>Stack:</b> <code>React 18</code> <code>Vite 6</code> <code>Tailwind CSS</code> <code>Framer Motion</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">💼 Personal Interactive Portfolio</h3>
+      <p align="center">
+        <a href="https://muhsattarbarakati.my.id" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Site-muhsattarbarakati.my.id-0284C7?style=flat-square&logo=google-chrome&logoColor=white" alt="Live Site" />
+        </a>
+        <a href="https://github.com/owensavala/muhsattarbarakati-portfolio">
+          <img src="https://img.shields.io/badge/Repository-View_Code-gray?style=flat-square&logo=github" alt="Portfolio" />
+        </a>
+      </p>
+      <p align="center">Platform portofolio resmi dan rekam jejak lapangan MSB Computer & Network Solutions. Mengintegrasikan profil teknisi servis, instalasi Starlink, Lab ANBK, dan modern web engineering.</p>
+      <p align="center"><b>Stack:</b> <code>HTML5</code> <code>Tailwind CSS</code> <code>JavaScript</code> <code>Responsive Mobile UI</code></p>
     </td>
   </tr>
 </table>
