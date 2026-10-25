@@ -173,6 +173,18 @@ Sejak masa perkuliahan, saya aktif menggabungkan teori akademis dengan **eksekus
       <p><b>Stack:</b> <code>Node.js 22</code> <code>Express</code> <code>SQLite WAL</code> <code>ExcelJS</code> <code>Anti-Cheat</code></p>
     </td>
     <td width="50%" valign="top">
+      <h3 align="center">🛠️ MSB Hardware Diagnostic Tool</h3>
+      <p align="center">
+        <a href="https://github.com/owensavala/hardware-diagnostic-tool">
+          <img src="https://img.shields.io/badge/Repository-View_Project-38BDF8?style=flat-square&logo=github" alt="Hardware Diagnostic" />
+        </a>
+      </p>
+      <p>Utilitas diagnostik hardware teknisi laptop/PC level kernel WMI & ACPI. Dilengkapi deteksi sel baterai mati (Dead Cell & Ghost Capacity), sensor arus charging nyata (mW), benchmark sequential NVMe, dan ekspor laporan servis resmi ke format HTML.</p>
+      <p><b>Stack:</b> <code>Python 3</code> <code>Root WMI</code> <code>Rich TUI</code> <code>PyInstaller</code> <code>Field Ops</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">💌 Digital Wedding Platform</h3>
       <p align="center">
         <a href="https://github.com/owensavala/Undangan-nikah">
@@ -182,9 +194,7 @@ Sejak masa perkuliahan, saya aktif menggabungkan teori akademis dengan **eksekus
       <p>Aplikasi undangan pernikahan online interaktif lengkap dengan pemutar musik latar, form reservasi konfirmasi kehadiran (RSVP), amplop digital, dan petunjuk peta navigasi.</p>
       <p><b>Stack:</b> <code>React 18</code> <code>Vite 6</code> <code>Tailwind CSS</code> <code>Framer Motion</code></p>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">💼 Personal Interactive Portfolio</h3>
       <p align="center">
         <a href="https://muhsattarbarakati.my.id" target="_blank">
@@ -194,8 +204,8 @@ Sejak masa perkuliahan, saya aktif menggabungkan teori akademis dengan **eksekus
           <img src="https://img.shields.io/badge/Repository-View_Code-gray?style=flat-square&logo=github" alt="Portfolio" />
         </a>
       </p>
-      <p align="center">Platform portofolio resmi dan rekam jejak lapangan MSB Computer & Network Solutions. Mengintegrasikan profil teknisi servis, instalasi Starlink, Lab ANBK, dan modern web engineering.</p>
-      <p align="center"><b>Stack:</b> <code>HTML5</code> <code>Tailwind CSS</code> <code>JavaScript</code> <code>Responsive Mobile UI</code></p>
+      <p>Platform portofolio resmi dan rekam jejak lapangan MSB Computer & Network Solutions. Mengintegrasikan profil teknisi servis, instalasi Starlink, Lab ANBK, dan modern web engineering.</p>
+      <p><b>Stack:</b> <code>HTML5</code> <code>Tailwind CSS</code> <code>JavaScript</code> <code>Responsive Mobile UI</code></p>
     </td>
   </tr>
 </table>
